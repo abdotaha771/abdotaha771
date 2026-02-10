@@ -1,7 +1,7 @@
 # Hi there, I'm Abdelrahman Taha! 👋
 ### 🎓 Computer Engineering Student | 📊 Data Analyst | 🎥 Content Creator
 
-I am a final-year **Computer Engineering student at Mansoura University** with a strong foundation in Data Science and Analytics. I am passionate about transforming raw data into actionable business insights using **Python, SQL, and Power BI**.
+I am a **Pre-final-year Computer Engineering student at Mansoura University** with a strong foundation in Data Science and Analytics. I am passionate about transforming raw data into actionable business insights using **Python, SQL, and Power BI**.
 
 Currently, I am also sharing my knowledge by creating educational content on YouTube regarding Data Analysis tools.
 

@@ -1,9 +1,9 @@
 # Hi there, I'm Abdelrahman Taha! 👋
-### 🎓 Computer Engineering Student | 📊 Data Analyst | 🎥 Content Creator
+### 🎓 Computer Engineering Student | 📊 Data Analyst | ⚙️ Aspiring Data Engineer
 
-I am a **Pre-final-year Computer Engineering student at Mansoura University** with a strong foundation in Data Science and Analytics. I am passionate about transforming raw data into actionable business insights using **Python, SQL, and Power BI**.
+I am a Computer Engineering undergraduate student at Mansoura University (Excellent standing), with a strong foundation in Data Science and Analytics. I am actively expanding my expertise into Data Engineering, focusing on building data pipelines, ETL/ELT architecture, and relational data modeling. I am passionate about transforming raw data into scalable, actionable business insights using **Python, SQL, and Power BI**.
 
-Currently, I am also sharing my knowledge by creating educational content on YouTube regarding Data Analysis tools.
+Currently, I operate **The Data Path**, an educational YouTube channel where I share my knowledge and create structured tutorials on data analysis and engineering tools. I also work as a freelance Data Analyst, engineering multi-page business dashboards and analytical reporting solutions for private clients across multiple business domains.
 
 ---
 
@@ -15,6 +15,9 @@ Currently, I am also sharing my knowledge by creating educational content on You
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Additional Skills:** ETL/ELT Pipelines, Relational Data Modeling, Statistical & Predictive Modeling, AI-Assisted Development.
 
 ---
 
@@ -22,28 +25,33 @@ Currently, I am also sharing my knowledge by creating educational content on You
 
 | Project | Description | Tools Used |
 | :--- | :--- | :--- |
-| **Construction Analytics & PMO Dashboard** | Financial monitoring dashboard for a $377M budget, identifying variance and tracking progress via S-Curves. | `Power BI` `Data Modeling` |
-| **Sales Dashboard Analysis** | Interactive dashboard for e-commerce sales, utilizing advanced DAX for regional and product KPIs. | `Power BI` `DAX` |
-| **Premier League 2025 Analysis** | Comprehensive analysis of 380 matches & 1115 goals to extract insights on players and clubs. | `Excel` `Pivot Tables` |
+| **Enterprise Data Warehouse & Analytics** | End-to-end data engineering lifecycle utilizing Medallion Architecture (Bronze/Silver/Gold) to ingest, clean, and model CRM and ERP data via Star Schema. | `SQL Server` `ETL` `Data Modeling` |
+| **Construction Analytics & PMO Dashboard** | Developed a 4-page financial monitoring dashboard for a 377M EGP project budget, tracking planned value vs. actual expenditure and identifying a -13.28% variance via automated S-Curves. | `Power BI` `DAX` `Power Query` |
+| **[Sales Dashboard Analysis](https://github.com/abdotaha771/Sales-Dashboard-Analysis-Project-)** | Extracted, transformed, and modeled raw commercial data for end-to-end analysis, implementing advanced DAX calculations to surface regional and revenue KPIs. | `Power BI` `DAX` |
+| **[Premier League 2025 Analysis](https://github.com/abdotaha771/Premier-League-Analysis-Excel-2025)** | Interactive dashboard analyzing 380 matches and 1,115 goals to extract insights on player, club, and financial performance. | `Excel` `Pivot Tables` |
 
 ---
 
-
-
 ### 🏆 Certifications & Training
 
-* **IBM Data Science Professional Certificate** - Digital Egypt Pioneers Initiative (DEPI)
-* **Freelance Data Analyst** - Proven track record in building analytical dashboards.
+* **Comprehensive SQL Database Course** - Spanning core data warehousing, EDA, and optimization principles *(Jul 2026)*
+* **IT Summer Training Program** - United Energy Egypt (UEE) *(Jul 2025)*
+* **IBM Data Science Professional Certificate** - Digital Egypt Pioneers Initiative (DEPI) *(Apr 2024 - Oct 2024)*
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abdelrahman-taha136" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:abdelrahman.taha.ds@gmail.com" target="blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+  <a href="https://www.linkedin.com/in/abdelrahman-taha136" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdelrahman.taha.ds@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/abdotaha771" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
+
+*Check out my technical engineering case studies on my live digital portfolio (hosted on Vercel).*

@@ -1,7 +1,7 @@
 # Hi there, I'm Abdelrahman Taha! 👋
 ### 🎓 Computer Engineering Student | 📊 Data Analyst | ⚙️ Aspiring Data Engineer
 
-I am a Computer Engineering undergraduate student at Mansoura University (Excellent standing), with a strong foundation in Data Science and Analytics. I am actively expanding my expertise into Data Engineering, focusing on building data pipelines, ETL/ELT architecture, and relational data modeling. I am passionate about transforming raw data into scalable, actionable business insights using **Python, SQL, and Power BI**.
+I am a Computer Engineering undergraduate student at Mansoura University **Academic Standing: Excellent**, with a strong foundation in Data Science and Analytics. I am actively expanding my expertise into Data Engineering, focusing on building data pipelines, ETL/ELT architecture, and relational data modeling. I am passionate about transforming raw data into scalable, actionable business insights using **Python, SQL, and Power BI**.
 
 Currently, I operate **The Data Path**, an educational YouTube channel where I share my knowledge and create structured tutorials on data analysis and engineering tools. I also work as a freelance Data Analyst, engineering multi-page business dashboards and analytical reporting solutions for private clients across multiple business domains.
 

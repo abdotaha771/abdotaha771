@@ -26,7 +26,7 @@ Currently, I operate **The Data Path**, an educational YouTube channel where I s
 | Project | Description | Tools Used |
 | :--- | :--- | :--- |
 | **Enterprise Data Warehouse & Analytics** | End-to-end data engineering lifecycle utilizing Medallion Architecture (Bronze/Silver/Gold) to ingest, clean, and model CRM and ERP data via Star Schema. | `SQL Server` `ETL` `Data Modeling` |
-| **Construction Analytics & PMO Dashboard** | Developed a 4-page financial monitoring dashboard for a 377M EGP project budget, tracking planned value vs. actual expenditure and identifying a -13.28% variance via automated S-Curves. | `Power BI` `DAX` `Power Query` |
+| **Construction Analytics & PMO Dashboard** | Developed a 4-page financial monitoring dashboard for a 377M SAR project budget, tracking planned value vs. actual expenditure and identifying a -13.28% variance via automated S-Curves. | `Power BI` `DAX` `Power Query` |
 | **[Sales Dashboard Analysis](https://github.com/abdotaha771/Sales-Dashboard-Analysis-Project-)** | Extracted, transformed, and modeled raw commercial data for end-to-end analysis, implementing advanced DAX calculations to surface regional and revenue KPIs. | `Power BI` `DAX` |
 | **[Premier League 2025 Analysis](https://github.com/abdotaha771/Premier-League-Analysis-Excel-2025)** | Interactive dashboard analyzing 380 matches and 1,115 goals to extract insights on player, club, and financial performance. | `Excel` `Pivot Tables` |
 

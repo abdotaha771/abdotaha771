@@ -43,7 +43,9 @@ Currently, I operate **[The Data Path](https://www.youtube.com)**, an educationa
 
 ---
 
-### 🤝 Connect with Me
+### 🌐 Live Portfolio & Contact
+
+🌐 **Personal Web Portfolio:** [abdelrahman-taha13.vercel.app](https://abdelrahman-taha13.vercel.app/)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdelrahman-taha136" target="_blank">
@@ -56,5 +58,3 @@ Currently, I operate **[The Data Path](https://www.youtube.com)**, an educationa
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-*Check out my technical engineering case studies on my live digital portfolio (hosted on Vercel).*

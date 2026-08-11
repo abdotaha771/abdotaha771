@@ -1,23 +1,26 @@
 # Hi there, I'm Abdelrahman Taha! 👋
-### 🎓 Computer Engineering Student | 📊 Data Analyst | ⚙️ Aspiring Data Engineer
+### 🎓 Computer Engineering Student | ⚙️ Aspiring Data Engineer | 📊 Data Analyst
 
-I am a Computer Engineering undergraduate student at Mansoura University **Academic Standing: Excellent**, with a strong foundation in Data Science and Analytics. I am actively expanding my expertise into Data Engineering, focusing on building data pipelines, ETL/ELT architecture, and relational data modeling. I am passionate about transforming raw data into scalable, actionable business insights using **Python, SQL, and Power BI**.
+I am a Computer Engineering undergraduate student at Mansoura University (**Academic Standing: Excellent**), specializing in building scalable data pipelines, modern data warehousing, and ETL/ELT architecture. My goal is to transform complex raw data into reliable, production-ready data systems using **Python, SQL, Docker, GCP, and Power BI**.
 
-Currently, I operate **The Data Path**, an educational YouTube channel where I share my knowledge and create structured tutorials on data analysis and engineering tools. I also work as a freelance Data Analyst, engineering multi-page business dashboards and analytical reporting solutions for private clients across multiple business domains.
+Currently, I operate **[The Data Path](https://www.youtube.com)**, an educational YouTube channel focused on breaking down data tools and concepts. I also work as a freelance Data Analyst, engineering multi-page analytical solutions and business dashboards.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
+**Languages & Data Engineering:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**Additional Skills:** ETL/ELT Pipelines, Relational Data Modeling, Statistical & Predictive Modeling, AI-Assisted Development.
+**Analytics & Visualization:**
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Additional Skills:** ETL/ELT Pipelines, Relational Data Modeling, Statistical & Predictive Modeling.
 
 ---
 

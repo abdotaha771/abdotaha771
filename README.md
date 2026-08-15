@@ -3,7 +3,7 @@
 
 I am a Computer Engineering undergraduate student at Mansoura University (**Academic Standing: Excellent**), specializing in building scalable data pipelines, modern data warehousing, and ETL/ELT architecture. My goal is to transform complex raw data into reliable, production-ready data systems using **Python, SQL, Docker, GCP, and Power BI**.
 
-Currently, I operate **[The Data Path](https://www.youtube.com)**, an educational YouTube channel focused on breaking down data tools and concepts. I also work as a freelance Data Analyst, engineering multi-page analytical solutions and business dashboards.
+Currently, I operate **[The Data Path](https://www.youtube.com/@DataPathChannel)**, an educational YouTube channel focused on breaking down data tools and concepts. I also work as a freelance Data Analyst, engineering multi-page analytical solutions and business dashboards.
 
 ---
 

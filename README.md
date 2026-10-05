@@ -1,60 +1,65 @@
-# Hi there, I'm Abdelrahman Taha! 👋
-### 🎓 Computer Engineering Student | ⚙️ Aspiring Data Engineer | 📊 Data Analyst
+# Abdelrahman Taha
+### Computer Engineering Student | Aspiring Data Engineer & Analytics Specialist
 
-I am a Computer Engineering undergraduate student at Mansoura University (**Academic Standing: Excellent**), specializing in building scalable data pipelines, modern data warehousing, and ETL/ELT architecture. My goal is to transform complex raw data into reliable, production-ready data systems using **Python, SQL, Docker, GCP, and Power BI**.
+Computer Engineering undergraduate at Mansoura University with a strong focus on data engineering, analytics engineering, and business intelligence. Experienced in designing scalable ETL/ELT pipelines, dimensional data modeling (Star & Snowflake schemas), and modern data warehousing architectures. Proficient in transforming raw, heterogeneous datasets into clean, reliable, and production-ready analytical models using **SQL, Python, dbt, Docker, Power BI, and Tableau**.
 
-Currently, I operate **[The Data Path](https://www.youtube.com/@DataPathChannel)**, an educational YouTube channel focused on breaking down data tools and concepts. I also work as a freelance Data Analyst, engineering multi-page analytical solutions and business dashboards.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Data Engineering:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Analytics & Visualization:**
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**Additional Skills:** ETL/ELT Pipelines, Relational Data Modeling, Statistical & Predictive Modeling.
+Founder of **[The Data Path](https://www.youtube.com/@DataPathChannel)**, an educational platform dedicated to technical breakdowns of modern data stack tools and practices. Active freelance data practitioner building end-to-end data pipelines, semantic layers, and executive BI dashboards.
 
 ---
 
-### 📂 Featured Projects
+### Tech Stack & Core Competencies
 
-| Project | Description | Tools Used |
+**Data Engineering & Transformation:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Business Intelligence & Visualization:**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Core Competencies:** 
+- **Data Architecture & Engineering:** Medallion Architecture (Bronze/Silver/Gold), ETL/ELT Pipeline Development, Orchestration, dbt Core (Transformation & Testing).
+- **Data Modeling & Analytics:** Relational & Dimensional Data Modeling (Star/Snowflake Schemas), Fact & Dimension Design, DAX, Data Quality & Documentation.
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Enterprise Data Warehouse & Analytics** | End-to-end data engineering lifecycle utilizing Medallion Architecture (Bronze/Silver/Gold) to ingest, clean, and model CRM and ERP data via Star Schema. | `SQL Server` `ETL` `Data Modeling` |
-| **Construction Analytics & PMO Dashboard** | Developed a 4-page financial monitoring dashboard for a 377M SAR project budget, tracking planned value vs. actual expenditure and identifying a -13.28% variance via automated S-Curves. | `Power BI` `DAX` `Power Query` |
-| **[Sales Dashboard Analysis](https://github.com/abdotaha771/Sales-Dashboard-Analysis-Project-)** | Extracted, transformed, and modeled raw commercial data for end-to-end analysis, implementing advanced DAX calculations to surface regional and revenue KPIs. | `Power BI` `DAX` |
-| **[Premier League 2025 Analysis](https://github.com/abdotaha771/Premier-League-Analysis-Excel-2025)** | Interactive dashboard analyzing 380 matches and 1,115 goals to extract insights on player, club, and financial performance. | `Excel` `Pivot Tables` |
+| **Enterprise Data Warehouse & Analytics** | Designed and implemented an end-to-end analytics engineering pipeline using Medallion Architecture. Extracted, cleaned, and transformed raw CRM/ERP data into a production-grade Star Schema dimensional model. | `SQL Server` `dbt` `Data Modeling` `ETL` |
+| **Construction PMO Analytics Dashboard** | Built an executive-level performance and financial tracking suite for a 377M SAR project portfolio. Automated planned vs. actual expenditure tracking and S-Curve trend forecasting. | `Power BI` `DAX` `Data Modeling` |
+| **[Commercial Sales & Performance Analytics](https://github.com/abdotaha771/Sales-Dashboard-Analysis-Project-)** | Modeled transactional sales data and developed cross-functional KPI tracking, surfacing regional revenue drivers, customer segmentation, and product profitability. | `Tableau` `Power BI` `SQL` |
+| **[Premier League Performance Analysis](https://github.com/abdotaha771/Premier-League-Analysis-Excel-2025)** | Engineered an analytical dataset across 380 fixtures and 1,115 goals to evaluate squad metrics, match outcomes, and wage-to-performance efficiency. | `Excel` `Data Analysis` |
 
 ---
 
-### 🏆 Certifications & Training
+### Certifications & Professional Training
 
-* **Comprehensive SQL Database Course** - Spanning core data warehousing, EDA, and optimization principles *(Jul 2026)*
-* **IT Summer Training Program** - United Energy Egypt (UEE) *(Jul 2025)*
-* **IBM Data Science Professional Certificate** - Digital Egypt Pioneers Initiative (DEPI) *(Apr 2024 - Oct 2024)*
+- **dbt Fundamentals** – DataCamp / dbt Labs
+- **Comprehensive SQL Database & Data Warehousing** – Advanced querying, schema design, and query optimization
+- **IT Engineering Training Program** – United Energy Egypt (UEE)
+- **IBM Data Science Professional Certificate** – Digital Egypt Pioneers Initiative (DEPI)
 
 ---
 
-### 🌐 Live Portfolio & Contact
+### Portfolio & Connect
 
-🌐 **Personal Web Portfolio:** [abdelrahman-taha13.vercel.app](https://abdelrahman-taha13.vercel.app/)
+- **Portfolio Website:** [abdelrahman-taha13.vercel.app](https://abdelrahman-taha13.vercel.app/)
+- **YouTube Channel:** [The Data Path](https://www.youtube.com/@DataPathChannel)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdelrahman-taha136" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abdelrahman.taha.ds@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/abdotaha771" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>

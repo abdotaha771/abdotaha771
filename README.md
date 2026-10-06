@@ -1,7 +1,7 @@
 # Abdelrahman Taha
 ### Computer Engineering Student | Aspiring Data Engineer & Analytics Specialist
 
-Computer Engineering undergraduate at Mansoura University with a strong focus on data engineering, analytics engineering, and business intelligence. Experienced in designing scalable ETL/ELT pipelines, dimensional data modeling (Star & Snowflake schemas), and modern data warehousing architectures. Proficient in transforming raw, heterogeneous datasets into clean, reliable, and production-ready analytical models using **SQL, Python, dbt, Docker, Power BI, and Tableau**.
+Computer Engineering undergraduate at Mansoura University (**Cumulative Academic Standing: Excellent**), specializing in data engineering, analytics engineering, and business intelligence. Experienced in building scalable ETL/ELT pipelines, dimensional data modeling (Star & Snowflake schemas), and modern data warehousing architectures. Proficient in transforming raw, heterogeneous datasets into clean, reliable, and production-ready analytical models that drive business decisions.
 
 Founder of **[The Data Path](https://www.youtube.com/@DataPathChannel)**, an educational platform dedicated to technical breakdowns of modern data stack tools and practices. Active freelance data practitioner building end-to-end data pipelines, semantic layers, and executive BI dashboards.
 
@@ -11,14 +11,14 @@ Founder of **[The Data Path](https://www.youtube.com/@DataPathChannel)**, an edu
 
 **Data Engineering & Transformation:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Business Intelligence & Visualization:**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge&logo=tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **Core Competencies:** 
@@ -49,7 +49,7 @@ Founder of **[The Data Path](https://www.youtube.com/@DataPathChannel)**, an edu
 
 ### Portfolio & Connect
 
-- **Portfolio Website:** [abdelrahman-taha13.vercel.app](https://abdelrahman-taha13.vercel.app/)
+- **My Website:** [abdelrahman-taha13.vercel.app](https://abdelrahman-taha13.vercel.app/)
 - **YouTube Channel:** [The Data Path](https://www.youtube.com/@DataPathChannel)
 
 <p align="left">

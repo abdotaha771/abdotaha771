@@ -3,7 +3,7 @@
 
 Computer Engineering undergraduate at Mansoura University (**Cumulative Academic Standing: Excellent**), specializing in data engineering, analytics engineering, and business intelligence. Experienced in building scalable ETL/ELT pipelines, dimensional data modeling (Star & Snowflake schemas), and modern data warehousing architectures. Proficient in transforming raw, heterogeneous datasets into clean, reliable, and production-ready analytical models that drive business decisions.
 
-Founder of **[The Data Path](https://www.youtube.com/@DataPathChannel)**, an educational platform dedicated to technical breakdowns of modern data stack tools and practices. Active freelance data practitioner building end-to-end data pipelines, semantic layers, and executive BI dashboards.
+Creator of **[The Data Path](https://www.youtube.com/@DataPathChannel)**, an educational YouTube channel dedicated to technical tutorials and deep dives into data engineering and analytics tools. Active freelance data practitioner building end-to-end data pipelines, semantic layers, and executive BI dashboards.
 
 ---
 

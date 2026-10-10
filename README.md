@@ -31,17 +31,16 @@ Creator of **[The Data Path](https://www.youtube.com/@DataPathChannel)**, an edu
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Enterprise Data Warehouse & Analytics** | Designed and implemented an end-to-end analytics engineering pipeline using Medallion Architecture. Extracted, cleaned, and transformed raw CRM/ERP data into a production-grade Star Schema dimensional model. | `SQL Server` `dbt` `Data Modeling` `ETL` |
+| **[Enterprise Data Warehouse & Analytics](https://github.com/abdotaha771/Data-Warehouse-and-Analytics-Project)** | Designed and implemented an end-to-end analytics engineering pipeline using Medallion Architecture. Extracted, cleaned, and transformed raw CRM/ERP data into a production-grade Star Schema dimensional model. | `SQL Server` `Data Modeling` `ETL` |
 | **Construction PMO Analytics Dashboard** | Built an executive-level performance and financial tracking suite for a 377M SAR project portfolio. Automated planned vs. actual expenditure tracking and S-Curve trend forecasting. | `Power BI` `DAX` `Data Modeling` |
-| **[Commercial Sales & Performance Analytics](https://github.com/abdotaha771/Sales-Dashboard-Analysis-Project-)** | Modeled transactional sales data and developed cross-functional KPI tracking, surfacing regional revenue drivers, customer segmentation, and product profitability. | `Tableau` `Power BI` `SQL` |
+| **[Commercial Sales & Performance Analytics](https://github.com/abdotaha771/Sales-Dashboard-Analysis-Project-)** | Modeled transactional sales data and developed cross-functional KPI tracking, surfacing regional revenue drivers, customer segmentation, and product profitability. | `Data Modeling` `Power BI` `DAX` |
 | **[Premier League Performance Analysis](https://github.com/abdotaha771/Premier-League-Analysis-Excel-2025)** | Engineered an analytical dataset across 380 fixtures and 1,115 goals to evaluate squad metrics, match outcomes, and wage-to-performance efficiency. | `Excel` `Data Analysis` |
 
 ---
 
 ### Certifications & Professional Training
 
-- **dbt Fundamentals** – DataCamp / dbt Labs
-- **Comprehensive SQL Database & Data Warehousing** – Advanced querying, schema design, and query optimization
+- **Data Analytics & BI Intensive Training (144 Hours)** – Information Technology Institute (ITI)
 - **IT Engineering Training Program** – United Energy Egypt (UEE)
 - **IBM Data Science Professional Certificate** – Digital Egypt Pioneers Initiative (DEPI)
 
